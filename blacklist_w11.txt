@@ -46,3 +46,4 @@ Microsoft.WindowsTerminal
 #Microsoft.ZuneVideo
 #MicrosoftTeams
 MicrosoftWindows.Client.WebExperience
+#E046963F.LenovoCompanion
