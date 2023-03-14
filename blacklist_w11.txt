@@ -47,3 +47,5 @@ Microsoft.WindowsTerminal
 #MicrosoftTeams
 MicrosoftWindows.Client.WebExperience
 #E046963F.LenovoCompanion
+#4DF9E0F8.Netflix
+#www.office.com-6A424043
