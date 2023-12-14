@@ -65,3 +65,4 @@ F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE
 #7906AAC0.TOSHIBAManual
 #Microsoft.SkypeApp
 #McAfeeWPSSparsePackage
+#E0469640.LenovoSmartCommunication
