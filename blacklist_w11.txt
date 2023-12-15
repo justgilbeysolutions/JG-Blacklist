@@ -66,3 +66,6 @@ F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE
 #Microsoft.SkypeApp
 #McAfeeWPSSparsePackage
 #E0469640.LenovoSmartCommunication
+#*Lenovo*
+#*Dell*
+#*McAfee*
