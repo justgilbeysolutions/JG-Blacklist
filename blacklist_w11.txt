@@ -73,3 +73,6 @@ F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE
 #king.com.CandyCrushFriends
 #C27EB4BA.DropboxOEM
 #4DF9E0F8.Netflix
+#king.com.CandyCrushSodaSaga
+#SpotifyAB.SpotifyMusic
+#A278AB0D.MarchofEmpires
