@@ -69,3 +69,7 @@ F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE
 #*Lenovo*
 #*Dell*
 #*McAfee*
+#king.com.FarmHeroesSaga
+#king.com.CandyCrushFriends
+#C27EB4BA.DropboxOEM
+#4DF9E0F8.Netflix
