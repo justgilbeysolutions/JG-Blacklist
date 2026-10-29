@@ -51,7 +51,7 @@ MicrosoftWindows.Client.WebExperience
 #E046963F.LenovoSettingsforEnterprise
 #4DF9E0F8.Netflix
 #www.office.com-6A424043
-#Microsoft.XboxGameCallableUI
+Microsoft.XboxGameCallableUI
 #E0469640.LenovoUtility
 1527c705-839a-4832-9118-54d4Bd6a0c89
 c5e2524a-ea46-4f67-841f-6a9465d9d515
