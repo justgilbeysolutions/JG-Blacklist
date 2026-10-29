@@ -1,5 +1,6 @@
-Built-in apps listed below that are not prefixed with a  will be considered eligible for removal
-Prefix item with # to mark it for removal
+Built-in apps listed below that are not prefixed with a # will be ignored
+Prefix item with # to mark it for removal (wildcards like *Lenovo* work)
+Prefix with #WIN32: to remove a normal program by its Add/Remove Programs name e.g. #WIN32:Lenovo Vantage Service
 
 Microsoft.549981C3F5F10
 #Microsoft.BingNews
@@ -47,6 +48,7 @@ Microsoft.WindowsTerminal
 #MicrosoftTeams
 MicrosoftWindows.Client.WebExperience
 #E046963F.LenovoCompanion
+#E046963F.LenovoSettingsforEnterprise
 #4DF9E0F8.Netflix
 #www.office.com-6A424043
 #Microsoft.XboxGameCallableUI
@@ -62,17 +64,17 @@ F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE
 #Microsoft.MinecraftUWP
 #king.com.CandyCrushSaga
 #king.com.CandyCrushSodaSaga
+#king.com.FarmHeroesSaga
+#king.com.CandyCrushFriends
 #7906AAC0.TOSHIBAManual
 #Microsoft.SkypeApp
 #McAfeeWPSSparsePackage
 #E0469640.LenovoSmartCommunication
+#C27EB4BA.DropboxOEM
+#SpotifyAB.SpotifyMusic
 #*Lenovo*
 #*Dell*
 #*McAfee*
-#king.com.FarmHeroesSaga
-#king.com.CandyCrushFriends
-#C27EB4BA.DropboxOEM
-#4DF9E0F8.Netflix
-#king.com.CandyCrushSodaSaga
-#SpotifyAB.SpotifyMusic
-#A278AB0D.MarchofEmpires
+
+Win32 programs
+#WIN32:Lenovo Vantage Service
